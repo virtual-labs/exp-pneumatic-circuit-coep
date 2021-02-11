@@ -100,7 +100,7 @@
         },
 
     {
-            question: "If air is fed to port P2, and port p1 is closed and air moves to ‘A’. This is operation of:", ///// Write the question inside double quotes
+            question: "If air is fed to port P2, and port p1 is closed and air moves to 'A'. This is operation of:", ///// Write the question inside double quotes
             answers: {
                 a: "Twin valve", ///// Write the option 1 inside double quotes
                 b: "Quick exhaust valve", ///// Write the option 2 inside double quotes
@@ -109,7 +109,7 @@
             },
             correctAnswer: "c" ///// Write the correct option inside double quotes
         },{
-            question: "If air is fed to port P2, port p1 and air moves to ‘A’. This is operation of:", ///// Write the question inside double quotes
+            question: "If air is fed to port P2, port p1 and air moves to 'A'. This is operation of:", ///// Write the question inside double quotes
             answers: {
                 a: "Shuttle valve", ///// Write the option 1 inside double quotes
                 b: "Twin valve", ///// Write the option 2 inside double quotes
