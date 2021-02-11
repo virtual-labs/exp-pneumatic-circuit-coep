@@ -89,22 +89,53 @@
 
 
     const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "3/2 way pneumatic DCV, pilot signal must be:", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "Manual", ///// Write the option 1 inside double quotes
+                b: "Timer contact", ///// Write the option 2 inside double quotes
+				c: "Electronic",
+				d: "Pneumatic"
             },
             correctAnswer: "a" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
-      answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
-    },
+            question: "If air is fed to port P2, and port p1 is closed and air moves to ‘A’. This is operation of:", ///// Write the question inside double quotes
+            answers: {
+                a: "Twin valve", ///// Write the option 1 inside double quotes
+                b: "Quick exhaust valve", ///// Write the option 2 inside double quotes
+				c: "Shuttle valve",
+				d: "Time delay valve"
+            },
+            correctAnswer: "c" ///// Write the correct option inside double quotes
+        },{
+            question: "If air is fed to port P2, port p1 and air moves to ‘A’. This is operation of:", ///// Write the question inside double quotes
+            answers: {
+                a: "Shuttle valve", ///// Write the option 1 inside double quotes
+                b: "Twin valve", ///// Write the option 2 inside double quotes
+				c: "Quick exhaust valve",
+				d: "Time delay valve"
+            },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
+        },{
+            question: "4/2 way pneumatic DCV, pilot signal must be:", ///// Write the question inside double quotes
+            answers: {
+                a: "Foot pedal", ///// Write the option 1 inside double quotes
+                b: "Push button", ///// Write the option 2 inside double quotes
+				c: "Electronic",
+				d: "Pneumatic"
+            },
+            correctAnswer: "d" ///// Write the correct option inside double quotes
+        },{
+            question: "In order to attain maximum benefit out of quick exhaust valve, the port A of the valve should be directly connected to the:", ///// Write the question inside double quotes
+            answers: {
+                a: "Cylinder port", ///// Write the option 1 inside double quotes
+                b: "Pilot port", ///// Write the option 2 inside double quotes
+				c: "Pressure port",
+				d: "Exhaust port"
+            },
+            correctAnswer: "a" ///// Write the correct option inside double quotes
+        },
 
 
         
