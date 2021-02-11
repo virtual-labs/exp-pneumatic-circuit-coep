@@ -1,1 +1,1 @@
-### Aim of the experiment
+Develop pneumatic circuit to transfer block from a magazine

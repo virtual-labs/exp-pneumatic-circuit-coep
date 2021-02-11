@@ -89,23 +89,54 @@
 
 
      const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "Speed of the cylinder is accelerated by using:", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "Time delay Valve", ///// Write the option 1 inside double quotes
+                b: "Shuttle Valve", ///// Write the option 2 inside double quotes
+				c: "Twin pressure valve",
+				d: "Quick exhaust valve"
             },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+            correctAnswer: "d" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
-      answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
-    },
-
+            question: "Quick exhaust valve has", ///// Write the question inside double quotes
+            answers: {
+                a: "one working port, one pressure port, one exhaust port", ///// Write the option 1 inside double quotes
+                b: "two working port, one pressure port, one exhaust port", ///// Write the option 2 inside double quotes
+				c: "one working port, two pressure port, one exhaust port",
+				d: "two working port, two pressure port, one exhaust port"
+            },
+            correctAnswer: "a" ///// Write the correct option inside double quotes
+        },
+		{
+            question: "Twin pressure valve has", ///// Write the question inside double quotes
+            answers: {
+                a: "one signal receiving port, two outlet port", ///// Write the option 1 inside double quotes
+                b: "two signal receiving port, one outlet port", ///// Write the option 2 inside double quotes
+				c: "one signal receiving port, one outlet port",
+				d: "two signal receiving port, two outlet port"
+            },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
+        },{
+            question: "Shuttle valve has", ///// Write the question inside double quotes
+            answers: {
+                a: "one signal receiving port, two outlet port", ///// Write the option 1 inside double quotes
+                b: "one signal receiving port, one outlet port", ///// Write the option 2 inside double quotes
+				c: "two signal receiving port, one outlet port",
+				d: "two signal receiving port, two outlet port"
+            },
+            correctAnswer: "c" ///// Write the correct option inside double quotes
+        },{
+            question: "Following pneumatic valves are called as signal generating valve:", ///// Write the question inside double quotes
+            answers: {
+                a: "Twin pressure valve", ///// Write the option 1 inside double quotes
+                b: "Quick exhaust valve", ///// Write the option 2 inside double quotes
+				c: "Flow Valve",
+				d: "Time delay Valve"
+            },
+            correctAnswer: "a" ///// Write the correct option inside double quotes
+        },
 
 
      ];
