@@ -1,1 +1,46 @@
-[{"question":"Speed of the cylinder is accelerated by using:","answers":{"a":"Time delay Valve","b":"Shuttle Valve","c":"Twin pressure valve","d":"Quick exhaust valve"},"correctAnswer":"d"},{"question":"Quick exhaust valve has","answers":{"a":"one working port, one pressure port, one exhaust port","b":"two working port, one pressure port, one exhaust port","c":"one working port, two pressure port, one exhaust port","d":"two working port, two pressure port, one exhaust port"},"correctAnswer":"a"},{"question":"Twin pressure valve has","answers":{"a":"one signal receiving port, two outlet port","b":"two signal receiving port, one outlet port","c":"one signal receiving port, one outlet port","d":"two signal receiving port, two outlet port"},"correctAnswer":"b"},{"question":"Shuttle valve has","answers":{"a":"one signal receiving port, two outlet port","b":"one signal receiving port, one outlet port","c":"two signal receiving port, one outlet port","d":"two signal receiving port, two outlet port"},"correctAnswer":"c"},{"question":"Following pneumatic valves are called as signal generating valve:","answers":{"a":"Twin pressure valve","b":"Quick exhaust valve","c":"Flow Valve","d":"Time delay Valve"},"correctAnswer":"a"}]
+[{
+	"question": "Speed of the cylinder is accelerated by using:",
+	"answers": {
+		"a": "Time delay Valve",
+		"b": "Shuttle Valve",
+		"c": "Twin pressure valve",
+		"d": "Quick exhaust valve"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Quick exhaust valve has",
+	"answers": {
+		"a": "one working port, one pressure port, one exhaust port",
+		"b": "two working port, one pressure port, one exhaust port",
+		"c": "one working port, two pressure port, one exhaust port",
+		"d": "two working port, two pressure port, one exhaust port"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Twin pressure valve has",
+	"answers": {
+		"a": "one signal receiving port, two outlet port",
+		"b": "two signal receiving port, one outlet port",
+		"c": "one signal receiving port, one outlet port",
+		"d": "two signal receiving port, two outlet port"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Shuttle valve has",
+	"answers": {
+		"a": "one signal receiving port, two outlet port",
+		"b": "one signal receiving port, one outlet port",
+		"c": "two signal receiving port, one outlet port",
+		"d": "two signal receiving port, two outlet port"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Following pneumatic valves are called as signal generating valve:",
+	"answers": {
+		"a": "Twin pressure valve",
+		"b": "Quick exhaust valve",
+		"c": "Flow Valve",
+		"d": "Time delay Valve"
+	},
+	"correctAnswer": "a"
+}]
